@@ -2,8 +2,6 @@
 
 Feel free to contact me through my [LinkedIn.](https://linkedin.com/in/louiscavalcante)
 </br>
-</br>
-</br>
 
 ## :gear: Github Info
 
