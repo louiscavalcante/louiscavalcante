@@ -1,8 +1,9 @@
 ## <img src="https://github.com/louiscavalcante/louiscavalcante/blob/main/assets/hand_wave.gif" width="25px"> Hi there!
 
 Feel free to contact me through my [LinkedIn.](https://linkedin.com/in/louiscavalcante)
-
-
+</br>
+</br>
+</br>
 
 ## :gear: Github Info
 
