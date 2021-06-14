@@ -1,4 +1,4 @@
-## <img src="https://github.com/louiscavalcante/louiscavalcante/blob/master/assets/hand_wave.gif" width="25px"> Hi there!
+## <img src="https://github.com/louiscavalcante/louiscavalcante/blob/main/assets/hand_wave.gif" width="25px"> Hi there!
 
 Feel free to contact me through my [LinkedIn.](https://linkedin.com/in/louiscavalcante)
 
